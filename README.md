@@ -29,7 +29,7 @@ docker run -d -p 8000:8000 \
 > 存放本地 /Users/yxy/work/ai/model-new/deepseek/
 
 ----
-##数据存储
+## 数据存储
 ### 基础包
 ```
 pip install llama-index-core python-dotenv chromadb
